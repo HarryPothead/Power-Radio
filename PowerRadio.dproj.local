@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.142,=D:\Programmieren\Projekte\1 Sound Projekte\Power Radio\newChannel.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.969,=X:\Programmieren\Projekte\1 Sound Projekte\Power Radio\Main2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.776,D:\Programmieren\Projekte\1 Sound Projekte\Power Radio\newChannel.pas=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.189,=D:\Programmieren\Projekte\1 Sound Projekte\Power Radio\newEntry.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.364,D:\Programmieren\Projekte\1 Sound Projekte\Power Radio\newEntry.pas=</Transaction>
+  </Transactions>
+</BorlandProject>
